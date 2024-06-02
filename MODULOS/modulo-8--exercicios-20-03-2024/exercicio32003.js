@@ -11,5 +11,3 @@ SalarioLiquido = (SalarioBruto+AdicionalNoturno+(HorasExtras*5)-Descontos)
 
 console.log("\nSeu salario liquido é: "+SalarioLiquido);
 
-
-
